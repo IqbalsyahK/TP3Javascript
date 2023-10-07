@@ -2,6 +2,7 @@ Tugas Pekanan 3 Javascript Bootcamp Sanbercode
 
 
 Readme
+
 Soal 1: Menghitung Akar Pangkat 2 dari Bilangan Genap
 Untuk menjawab soal ini, kita akan membuat sebuah program dalam file soal1.js yang akan menghitung akar pangkat 2 dari bilangan genap. Namun, ada beberapa kondisi yang perlu diperhatikan:
 
@@ -14,6 +15,7 @@ Untuk menjawab soal ini, kita akan membuat sebuah program dalam file soal2.js ya
 Kita akan menggunakan metode pengulangan, mengakses array objek, dan menggunakan kunci (keys) dari objek untuk mengakses nilainya.
 
 Readme
+
 Question 1: Calculating the Square Root of an Even Number
 To answer this problem, we will create a program in the file soal1.js that will calculate the square root of an even number. However, there are some conditions that need to be considered:
 
