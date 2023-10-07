@@ -1,4 +1,4 @@
-# Tugas Pekanan 3 Javascript Bootcamp Sanbercode
+Tugas Pekanan 3 Javascript Bootcamp Sanbercode
 
 
 Readme
